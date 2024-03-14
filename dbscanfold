@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Data Source=DESKTOP-C2SNCN5\SQLEXPRESS;Initial Catalog=rereazzzzzzz; Integrated Security=True;Encrypt=False" Microsoft.EntityFrameworkCore.SqlServer -o Modelf
